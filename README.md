@@ -1,3 +1,4 @@
+
 **🏦 Bank Management System**
 
 The Bank Management System is a secure and user-friendly application designed to automate and manage essential banking operations. The system serves as a centralized platform connecting customers and bank employees, enabling smooth handling of accounts, transactions, and services.
@@ -33,3 +34,5 @@ Database: MySQL
 Tools: Visual Studio, SQL Server / MySQL
 
 <img width="1464" height="857" alt="1" src="https://github.com/user-attachments/assets/5162e4ce-9748-4c91-bff8-f37b0ede0daa" />
+<img width="1494" height="917" alt="2" src="https://github.com/user-attachments/assets/fea6ca04-56ea-46ee-898c-ad3ae29b4248" />
+<img width="1496" height="919" alt="3" src="https://github.com/user-attachments/assets/a84b59d9-f750-44b9-a2ef-86e60030ab85" />
