@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Form1", "Form1.csproj", "{51EC2CBC-202F-443E-B9FC-3F195369574F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transaction", "..\Transaction\Transaction.csproj", "{ADBBA801-0FE3-497C-8FC3-B2AA4086D676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EC2CBC-202F-443E-B9FC-3F195369574F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EC2CBC-202F-443E-B9FC-3F195369574F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EC2CBC-202F-443E-B9FC-3F195369574F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EC2CBC-202F-443E-B9FC-3F195369574F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBBA801-0FE3-497C-8FC3-B2AA4086D676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBBA801-0FE3-497C-8FC3-B2AA4086D676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBBA801-0FE3-497C-8FC3-B2AA4086D676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBBA801-0FE3-497C-8FC3-B2AA4086D676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F5A191-3037-4AD9-8BC1-CE7EDAE69260}
+	EndGlobalSection
+EndGlobal

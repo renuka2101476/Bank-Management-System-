@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BankBranchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckBalanceFormcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChhechBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContactUsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreditCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DebitCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepositForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FixedDepositeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeLoan .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MDIForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PassBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonalLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registeration Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransferAmount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WithdrawAmt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
